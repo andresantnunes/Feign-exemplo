@@ -1,0 +1,3 @@
+com\example\apichamada\ApiChamadaApplication.class
+com\example\apichamada\controller\EnderecoController.class
+com\example\apichamada\entity\Endereco.class
